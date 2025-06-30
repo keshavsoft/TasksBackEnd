@@ -1,0 +1,15 @@
+{
+    "Columns": [
+        {
+            "ColumnName": "DoctorName",
+            "unique": true,
+            "type": "STRING"
+        },
+        {
+            "ColumnName": "DoctorSpec",
+            "unique": false,
+            "type": "STRING"
+        }
+    ],
+    "Data": []
+}

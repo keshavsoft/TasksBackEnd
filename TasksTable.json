@@ -1,0 +1,20 @@
+{
+    "Columns": [
+        {
+            "ColumnName": "title",
+            "unique": true,
+            "type": "STRING"
+        },
+        {
+            "ColumnName": "start",
+            "unique": false,
+            "type": "STRING"
+        },
+        {
+            "ColumnName": "className",
+            "unique": false,
+            "type": "STRING"
+        }
+    ],
+    "Data": []
+}
