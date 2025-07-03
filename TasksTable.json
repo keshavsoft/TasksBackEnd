@@ -1,17 +1,17 @@
 {
     "Columns": [
         {
-            "ColumnName": "title",
+            "field": "title",
             "unique": true,
             "type": "STRING"
         },
         {
-            "ColumnName": "start",
+            "field": "start",
             "unique": false,
             "type": "STRING"
         },
         {
-            "ColumnName": "className",
+            "field": "className",
             "unique": false,
             "type": "STRING"
         }

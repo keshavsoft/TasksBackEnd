@@ -1,12 +1,12 @@
 {
     "Columns": [
         {
-            "ColumnName": "DoctorName",
+            "field": "DoctorName",
             "unique": true,
             "type": "STRING"
         },
         {
-            "ColumnName": "DoctorSpec",
+            "field": "DoctorSpec",
             "unique": false,
             "type": "STRING"
         }
