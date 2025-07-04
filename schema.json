@@ -1,19 +1,6 @@
 {
-    "TableName": "SampleTable",
     "Tables": [
         "TasksTable",
         "DoctorsTable"
-    ],
-    "Columns": [
-        {
-            "ColumnName": "Col1",
-            "unique": true,
-            "type": "STRING"
-        },
-        {
-            "ColumnName": "Col2",
-            "unique": false,
-            "type": "NUMBER"
-        }
     ]
 }
