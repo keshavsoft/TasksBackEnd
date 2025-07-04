@@ -2,19 +2,19 @@
     "Columns": [
         {
             "field": "title",
-            "title": "title",
+            "title": "Title",
             "unique": true,
             "type": "STRING"
         },
         {
             "field": "start",
-            "title": "start",
+            "title": "Start Date",
             "unique": false,
             "type": "STRING"
         },
         {
             "field": "className",
-            "title": "className",
+            "title": "Class Name",
             "unique": false,
             "type": "STRING"
         }
