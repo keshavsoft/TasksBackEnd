@@ -1,0 +1,23 @@
+{
+    "TableName": "/V2/TasksTable",
+    "columns": [
+        {
+            "field": "title",
+            "title": "Title",
+            "unique": true,
+            "type": "STRING",
+            "HtmlComment": "Enter the title for the task"
+        },
+        {
+            "field": "start",
+            "unique": false,
+            "type": "STRING"
+        },
+        {
+            "field": "className",
+            "title": "Class Name",
+            "unique": false,
+            "type": "STRING"
+        }
+    ]
+}
