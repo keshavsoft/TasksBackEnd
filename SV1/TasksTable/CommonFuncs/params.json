@@ -1,0 +1,1 @@
+{"TableName":"TasksTable","DataPath":"Data","Columns":["title","start","className"],"ColumnsWithSchema":[{"field":"title","title":"Title","unique":true,"type":"STRING"},{"field":"start","title":"Start Date","unique":false,"type":"STRING"},{"field":"className","title":"Class Name","unique":false,"type":"STRING"}]}

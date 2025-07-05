@@ -1,5 +1,5 @@
 {
-    "Columns": [
+    "columns": [
         {
             "field": "title",
             "title": "Title",
@@ -19,5 +19,5 @@
             "type": "STRING"
         }
     ],
-    "Data": []
+    "data": []
 }

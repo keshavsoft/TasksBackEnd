@@ -1,0 +1,1 @@
+{"TableName":"DoctorsTable","DataPath":"Data","Columns":["DoctorName","DoctorSpec"],"ColumnsWithSchema":[{"field":"DoctorName","unique":true,"type":"STRING"},{"field":"DoctorSpec","unique":false,"type":"STRING"}]}

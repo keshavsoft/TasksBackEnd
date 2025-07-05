@@ -1,5 +1,5 @@
 {
-    "Columns": [
+    "columns": [
         {
             "field": "DoctorName",
             "unique": true,
@@ -11,5 +11,5 @@
             "type": "STRING"
         }
     ],
-    "Data": []
+    "data": []
 }
