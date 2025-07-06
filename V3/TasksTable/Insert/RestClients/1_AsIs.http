@@ -1,0 +1,8 @@
+POST http://localhost:3000/V3/TasksTable/Insert/AsIs
+Content-Type: application/json
+
+{
+  "title": "1st",
+  "start": "",
+  "className": ""
+}
