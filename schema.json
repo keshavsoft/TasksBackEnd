@@ -1,6 +1,5 @@
 {
     "Tables": [
-        "TasksTable",
-        "DoctorsTable"
+        "TasksTable"
     ]
 }
